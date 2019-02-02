@@ -1,6 +1,6 @@
 {
-  "name": "togeojson",
-  "version": "0.16.0",
+  "name": "@wind-mobility/togeojson",
+  "version": "0.16.1",
   "description": "convert KML and GPX to GeoJSON",
   "main": "togeojson.js",
   "directories": {
